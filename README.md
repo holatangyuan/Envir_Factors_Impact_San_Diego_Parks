@@ -1,2 +1,2 @@
-# individual_fa20
-Individual COGS 108 Projects (Fa20)
+# A Statistical Analysis of Environmental Factors’ Impact on San Diego Parks
+Individual Project for COGS 108: Data Science in Practice (Fall 2020)
