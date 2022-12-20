@@ -4,7 +4,7 @@ The project investigates the relationships between the yelp rating scores and CE
 
 Final report is [here](https://github.com/holatangyuan/Envir_Factors_Impact_San_Diego_Parks/blob/master/report/final_report.ipynb)
 
-Statistical Preview: 
+Statistical Preview: <br>
 ![Screenshot_20221220_101133](https://user-images.githubusercontent.com/24949723/208736592-5caa361b-0631-42ba-b3ae-adcf23fc8d74.png)
 
 An Individual Project for COGS 108: Data Science in Practice (Fall 2020)
